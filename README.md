@@ -42,9 +42,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="60" />
 
   <!-- Messaging & Tools -->
   <img width="12" />
