@@ -69,10 +69,10 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB">
+  <a href="https://github.com/YOUR_GITHUB](https://github.com/Amg1703">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=000000&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="mailto:arjunmageswaran@gmail.com">
